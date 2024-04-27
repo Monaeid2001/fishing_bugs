@@ -1,2 +1,4 @@
-class ApplicationController < ActionController
-end
+class ApplicationController < ActionController::Base
+    # Your controller logic goes here
+  end
+  
